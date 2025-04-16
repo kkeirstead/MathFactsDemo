@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MCP_GitHub_Demo/1.0.0": {
+        "runtime": {
+          "MCP_GitHub_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MCP_GitHub_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

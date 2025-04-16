@@ -1,0 +1,14 @@
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\bin\Debug\net8.0\MCP_GitHub_Demo.exe
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\bin\Debug\net8.0\MCP_GitHub_Demo.deps.json
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\bin\Debug\net8.0\MCP_GitHub_Demo.runtimeconfig.json
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\bin\Debug\net8.0\MCP_GitHub_Demo.dll
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\bin\Debug\net8.0\MCP_GitHub_Demo.pdb
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\obj\Debug\net8.0\MCP_GitHub_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\obj\Debug\net8.0\MCP_GitHub_Demo.AssemblyInfoInputs.cache
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\obj\Debug\net8.0\MCP_GitHub_Demo.AssemblyInfo.cs
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\obj\Debug\net8.0\MCP_GitHub_Demo.csproj.CoreCompileInputs.cache
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\obj\Debug\net8.0\MCP_GitHub_Demo.dll
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\obj\Debug\net8.0\refint\MCP_GitHub_Demo.dll
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\obj\Debug\net8.0\MCP_GitHub_Demo.pdb
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\obj\Debug\net8.0\MCP_GitHub_Demo.genruntimeconfig.cache
+C:\Users\kkeirstead\source\repos\MCP_GitHub_Demo\MCP_GitHub_Demo\obj\Debug\net8.0\ref\MCP_GitHub_Demo.dll
