@@ -7,18 +7,18 @@ while (keepRunning)
     // Get first number
     Console.Write("Enter first number: ");
     string firstInput = Console.ReadLine();
-    if (!double.TryParse(firstInput, out double num1))
+    if (!int.TryParse(firstInput, out int num1))
     {
-        Console.WriteLine("Invalid input. Please enter a valid number.");
+        Console.WriteLine("Invalid input. Please enter a valid integer.");
         continue;
     }
 
     // Get second number
     Console.Write("Enter second number: ");
     string secondInput = Console.ReadLine();
-    if (!double.TryParse(secondInput, out double num2))
+    if (!int.TryParse(secondInput, out int num2))
     {
-        Console.WriteLine("Invalid input. Please enter a valid number.");
+        Console.WriteLine("Invalid input. Please enter a valid integer.");
         continue;
     }
 
@@ -33,7 +33,7 @@ while (keepRunning)
     }
 
     // Perform calculation
-    double result = 0;
+    int result = 0;
     bool validCalculation = true;
     
     switch (op[0])

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kkeirstead\\source\\repos\\MCP_GitHub_Demo\\MCP_GitHub_Demo\\MCP_GitHub_Demo.csproj",
+      "projectUniqueName": "C:\\Users\\kkeirstead\\source\\repos\\MathFactsDemo\\MCP_GitHub_Demo\\MCP_GitHub_Demo.csproj",
       "projectName": "MCP_GitHub_Demo",
-      "projectPath": "C:\\Users\\kkeirstead\\source\\repos\\MCP_GitHub_Demo\\MCP_GitHub_Demo\\MCP_GitHub_Demo.csproj",
+      "projectPath": "C:\\Users\\kkeirstead\\source\\repos\\MathFactsDemo\\MCP_GitHub_Demo\\MCP_GitHub_Demo.csproj",
       "packagesPath": "C:\\Users\\kkeirstead\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kkeirstead\\source\\repos\\MCP_GitHub_Demo\\MCP_GitHub_Demo\\obj\\",
+      "outputPath": "C:\\Users\\kkeirstead\\source\\repos\\MathFactsDemo\\MCP_GitHub_Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

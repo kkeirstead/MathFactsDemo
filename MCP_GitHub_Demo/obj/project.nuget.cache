@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9qZZD6xvAkQ=",
+  "dgSpecHash": "RKwVxExjZiI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kkeirstead\\source\\repos\\MCP_GitHub_Demo\\MCP_GitHub_Demo\\MCP_GitHub_Demo.csproj",
+  "projectFilePath": "C:\\Users\\kkeirstead\\source\\repos\\MathFactsDemo\\MCP_GitHub_Demo\\MCP_GitHub_Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kkeirstead\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
     "C:\\Users\\kkeirstead\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
